@@ -3,7 +3,7 @@
 - A program we wrote for the EV3 to start at green and end at red while following the black line.
   
 https://github.com/XoXoTheFrozenFox/LegoMindstormHonoursCode/assets/104361159/b0ef71eb-899e-40b7-89cd-7b754ceb4f86
-## linefollowcolorinteraction
+## linefollowcolourinteraction
 - The program is similar to the linefollow program, but it's a bit different. Instead of just following a single line, the robot navigates a map covered in various colored tape. The robot reacts differently based on what colors its light sensor detects.
 - Photo of the map:
 ![152664c5-7d87-4d13-b8c1-dfe68b748011](https://github.com/XoXoTheFrozenFox/LegoMindstormHonoursCode/assets/104361159/565ba9ff-06a6-4a0f-b713-f7871782e63b)
